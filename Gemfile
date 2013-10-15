@@ -21,6 +21,7 @@ gem 'clockwork'
 gem 'sinatra'
 gem 'sidekiq'
 gem 'pry'
+gem 'rspec-rails'
 
 group :doc do
   gem 'sdoc', require: false
